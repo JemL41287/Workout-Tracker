@@ -9,7 +9,7 @@ This is an application that allows users to log both their cardio and resistance
 
 - User has the option to create a new workout or continue with their previous workout.
 
-- They then choose their exercise type (cadio and resistance) and enter the appropriate fields with their workout data.
+- They then choose their exercise type (cadio or resistance) and enter the appropriate fields with their workout data.
 
 - Their data is then displayed on the main page under Last Workout.
 
