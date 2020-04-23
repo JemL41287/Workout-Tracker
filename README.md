@@ -5,7 +5,7 @@ This is an application that allows users to log both their cardio and resistance
 
 ## Utilizing the App
 
-- View the app: [Here](https://dubootcampeatdaburger.herokuapp.com/ "Here")
+- View the app: [Here](https://dubootcampworkouttracker.herokuapp.com/ "Here")
 
 - User has the option to create a new workout or continue with their previous workout.
 
