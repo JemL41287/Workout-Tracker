@@ -17,15 +17,15 @@ This is an application that allows users to log both their cardio and resistance
 
 ### Main Page
 
-![MainPage](/public/imgages/mainpage.png)
+![MainPage](/public/images/mainpage.png)
 
 ### Add Workout
 
-![AddWorkout](/public/imgages/addworkout.png)
+![AddWorkout](/public/images/addworkout.png)
 
 ### Workout Dashboard
 
-![WorkoutDashboard](/public/imgages/workoutdashboard.png)
+![WorkoutDashboard](/public/images/workoutdashboard.png)
 
 ## Tech used
 - HTML
